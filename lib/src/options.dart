@@ -5,8 +5,6 @@ import 'dart:html';
 
 import 'package:js/js.dart';
 
-import 'typedefs.dart';
-
 /// Flatpickr configuration options.
 @JS()
 @anonymous
