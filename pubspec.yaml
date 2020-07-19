@@ -1,0 +1,16 @@
+name: flatpickr
+version: 0.1.0
+description: Dart interop for flatpickr - a lightweight and powerful datetime picker.
+
+repository: https://github.com/ganigeorgiev/flatpickr.dart/
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  js: ^0.6.2
+
+dev_dependencies:
+  build_runner: ^1.10.0
+  build_web_compilers: ^2.9.0
+  pedantic: ^1.9.0
