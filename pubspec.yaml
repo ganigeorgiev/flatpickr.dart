@@ -1,5 +1,5 @@
 name: flatpickr
-version: 0.1.0
+version: 0.1.1
 description: Dart interop for flatpickr - a lightweight and powerful datetime picker.
 
 homepage: https://github.com/ganigeorgiev/flatpickr.dart/

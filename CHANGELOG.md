@@ -1,3 +1,8 @@
-## 1.0.0
+## 0.1.1
 
-* Initial version
+* Removed unnecessary import
+* Added CHANGELOG.md
+
+## 0.1.0
+
+* Initial release
