@@ -10,7 +10,7 @@ Dart interop package for [Flatpickr v4+](https://flatpickr.js.org/) - a lightwei
 
     ```yaml
     dependencies:
-      flatpickr: ^0.0.1
+      flatpickr: ^0.1.0
     ```
 
 2. Load the latest Flatpickr source (js and css) in your html layout:
