@@ -1,7 +1,7 @@
 Flatpickr (Dart)
 ================================================================================
 
-Dart interop package for [Flatpickr v4+](https://flatpickr.js.org/) - a lightweight and powerful datetime picker.
+Dart JS interop for [Flatpickr v4+](https://flatpickr.js.org/) - a lightweight and powerful datetime picker.
 
 
 ## Usage
