@@ -11,7 +11,7 @@ import 'options.dart';
 @JS('flatpickr')
 class Flatpickr {
   external factory Flatpickr(
-    HtmlElement element, [
+    Element? element, [
     FlatpickrOptions options,
   ]);
 
