@@ -9,4 +9,4 @@ typedef FlatpickrEventFunc = Function(
 );
 
 /// Flatpickr locale ordinal function definition.
-typedef FlatpickrOrdinalFunc = String Function([int nth]);
+typedef FlatpickrOrdinalFunc = String Function([int? nth]);

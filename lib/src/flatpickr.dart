@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_positional_boolean_parameters
+
 @JS()
 library flatpickr;
 
@@ -11,8 +13,8 @@ import 'options.dart';
 @JS('flatpickr')
 class Flatpickr {
   external factory Flatpickr(
-    HtmlElement element, [
-    FlatpickrOptions options,
+    Element? element, [
+    FlatpickrOptions? options,
   ]);
 
   /// Parses date string according to date format.
@@ -96,7 +98,7 @@ class Flatpickr {
   external void setDate(
     dynamic date, [
     bool triggerChange = false,
-    String dateStrFormat,
+    String? dateStrFormat,
   ]);
 
   /// Shows/opens the calendar if its closed, hides/closes it otherwise.

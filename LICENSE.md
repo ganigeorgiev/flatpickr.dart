@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2020, Gani Georgiev
+Copyright (c) 2020-2021, Gani Georgiev
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

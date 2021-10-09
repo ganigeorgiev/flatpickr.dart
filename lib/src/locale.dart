@@ -10,8 +10,8 @@ import 'typedefs.dart';
 @anonymous
 class FlatpickrShortLongMap {
   external factory FlatpickrShortLongMap({
-    List shorthand,
-    List longhand,
+    List? shorthand,
+    List? longhand,
   });
 
   /// List of strings with shorthand option names.
@@ -30,21 +30,21 @@ class FlatpickrShortLongMap {
 @anonymous
 class FlatpickrLocale {
   external factory FlatpickrLocale({
-    FlatpickrShortLongMap weekdays,
-    FlatpickrShortLongMap months,
-    List daysInMonth,
-    int firstDayOfWeek,
-    FlatpickrOrdinalFunc ordinal,
-    String rangeSeparator,
-    String weekAbbreviation,
-    String scrollTitle,
-    String toggleTitle,
-    List amPM,
-    String yearAriaLabel,
-    String monthAriaLabel,
-    String hourAriaLabel,
-    String minuteAriaLabel,
-    bool time_24hr,
+    FlatpickrShortLongMap? weekdays,
+    FlatpickrShortLongMap? months,
+    List? daysInMonth,
+    int? firstDayOfWeek,
+    FlatpickrOrdinalFunc? ordinal,
+    String? rangeSeparator,
+    String? weekAbbreviation,
+    String? scrollTitle,
+    String? toggleTitle,
+    List? amPM,
+    String? yearAriaLabel,
+    String? monthAriaLabel,
+    String? hourAriaLabel,
+    String? minuteAriaLabel,
+    bool? time_24hr,
   });
 
   external FlatpickrShortLongMap get weekdays;
