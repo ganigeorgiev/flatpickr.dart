@@ -1,3 +1,7 @@
+**⚠️ The project has moved to https://ganigeorgiev.com/dartjs/flatpickr.**
+
+---
+
 Flatpickr (Dart)
 ================================================================================
 
